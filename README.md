@@ -103,4 +103,4 @@ Thank you for visiting my portfolio!
 
 ## 🌐 Live Demo
 
-🚀 **[View My Live Portfolio](https://rishikathallapally.github.io/codealpha_myportfolio/)**
+🚀 **[View My Live Portfolio](https://rishikathallapally.github.io/myportfolio/)**
