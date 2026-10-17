@@ -100,3 +100,7 @@ I am continuously improving my frontend development skills by learning new techn
 ---
 
 Thank you for visiting my portfolio!
+
+## 🌐 Live Demo
+
+🚀 **[View My Live Portfolio](https://rishikathallapally.github.io/codealpha_myportfolio/)**
